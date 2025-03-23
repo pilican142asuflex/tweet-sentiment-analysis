@@ -31,10 +31,8 @@ cffi==1.15.1
 chardet==3.0.4
 charset-normalizer==2.1.0
 click==8.1.3
-
 colorama==0.4.3
 comm==0.1.4
-
 configobj==5.0.6
 constantly==15.1.0
 cryptography==2.8
@@ -47,7 +45,6 @@ decorator==4.4.2
 defusedxml==0.7.1
 dill==0.3.8
 distro==1.9.0
-
 Django==4.2.2
 dnspython==2.6.1
 email-validator==2.1.0.post1
@@ -119,7 +116,6 @@ jupyterlab-widgets==3.0.8
 keras==2.12.0
 keyring==18.0.1
 kiwisolver==1.0.1
-language-selector==0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
@@ -180,6 +176,7 @@ pandas==2.0.2
 pandas-datareader==0.10.0
 pandocfilters==1.5.0
 parso==0.8.3
+pbr==6.1.1
 pexpect==4.6.0
 pickleshare==0.7.5
 Pillow==9.5.0
@@ -196,6 +193,7 @@ pure-eval==0.2.2
 pyarrow==17.0.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
+pycairo==1.26.1
 pycparser==2.21
 pydantic==2.5.3
 pydantic-core==2.14.6
@@ -265,6 +263,7 @@ tensorflow-estimator==2.12.0
 tensorflow-io-gcs-filesystem==0.32.0
 termcolor==2.3.0
 terminado==0.17.1
+testresources==2.0.1
 tflearn==0.5.0
 threadpoolctl==3.5.0
 tinycss2==1.2.1
@@ -307,3 +306,4 @@ yarl==1.15.2
 yfinance==0.2.28
 zipp==3.16.2
 zope.interface==4.7.1
+
